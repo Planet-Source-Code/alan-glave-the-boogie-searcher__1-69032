@@ -1,0 +1,34 @@
+TextBox
+Text4
+StartText
+1180428
+EndText
+|<->|
+ComboBox
+Combo1
+Mp3
+StartList
+Mp3
+Cdg
+Zip
+Txt
+EndList
+|<->|
+TextBox
+Text3
+StartText
+G:\Playlists
+EndText
+|<->|
+TextBox
+Text2
+StartText
+F:\Cdg Files
+EndText
+|<->|
+TextBox
+Text1
+StartText
+F:\Mp3 Albums
+EndText
+|<->|

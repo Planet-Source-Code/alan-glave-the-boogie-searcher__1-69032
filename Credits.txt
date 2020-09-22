@@ -1,0 +1,73 @@
+The Boogieman Mp3 Search Facilty
+
+Click on the singer to start
+
+This project was built by:
+
+Alan Glave (The Boogieman)
+The original release was dated 
+December 15th 2006
+and is dedicated to 
+the late Harold Wiley
+
+
+
+This program consists of:
+
+1. MP3 Search facility to search
+within folders (recursive)
+
+2. Full drag & drop facility
+-drag from list to player
+
+3. Playlist Maker/Editor
+create & save M3u Files
+
+4. Catalogue browser facility
+Searches a text file catalogue - 
+handy when only track numbers are 
+given to the Mp3's
+
+Enjoy!
+
+
+
+
+
+
+
+
+Autoloading Searcher..........
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autoloading Searcher..........
+
+
+
+
+
+
+
+
+
+
+
+
+Autoloading Searcher..........
+
+
+
+
+
+
